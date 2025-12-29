@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/mritunjay0415/helm-argocd-demo.git
+    repoURL: https://github.com/mritunjay0415/4-helm-argocd-demo.git
     targetRevision: HEAD
     path: charts/nginx
     helm:
